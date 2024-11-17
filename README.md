@@ -1,18 +1,18 @@
         Screen Shots Of These 03 Calculator Apps
 
-Dark Mode of The EasyCalculator App
+Dark Mode Of The EasyCalculator App
 ![Screenshot 2024-11-03 010953](https://github.com/user-attachments/assets/7a673594-d9dc-4680-877c-a8b3eca9046f)
 
 Light Mode Of The EasyCalculator App
 ![Screenshot 2024-11-03 011100](https://github.com/user-attachments/assets/68665b3a-389c-4278-bd55-9adcb27ee141)
 
-Dark Mode of The SNFCalculator App
+Dark Mode Of The SNFCalculator App
 ![Screenshot 2024-11-03 011246](https://github.com/user-attachments/assets/ba4dab8f-f909-4850-80b0-656bbbd7fecd)
 
 Light Mode Of The SNFCalculator App
 ![Screenshot 2024-11-03 011307](https://github.com/user-attachments/assets/b06708bc-b0b9-40fa-a686-c7f1ebaa7367)
 
-Dark Mode of The MyCalculator App
+Dark Mode Of The MyCalculator App
 ![Screenshot 2024-11-03 011608](https://github.com/user-attachments/assets/97a82dee-aaa5-4ba9-8bf3-da3d1ce36cbc)
 
 Light Mode Of The MyCalculator App
