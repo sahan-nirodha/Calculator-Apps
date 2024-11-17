@@ -18,5 +18,5 @@ Dark Mode Of The MyCalculator App
 Light Mode Of The MyCalculator App
 ![Screenshot 2024-11-03 011622](https://github.com/user-attachments/assets/4db36048-4930-4e6b-a462-7e35bfc92dc2)
 
-
+These 3 Apps Install To The Bluestack
 ![Screenshot 2024-11-03 011733](https://github.com/user-attachments/assets/e92b166a-7c16-4d96-8ea2-e9b683079452)
