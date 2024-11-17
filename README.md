@@ -7,10 +7,10 @@ Light Mode Of The EasyCalculator App
 ![Screenshot 2024-11-03 011100](https://github.com/user-attachments/assets/68665b3a-389c-4278-bd55-9adcb27ee141)
 
 Dark Mode Of The SNFCalculator App
-![Screenshot 2024-11-03 011246](https://github.com/user-attachments/assets/ba4dab8f-f909-4850-80b0-656bbbd7fecd)
+![Screenshot 2024-11-03 011307](https://github.com/user-attachments/assets/b06708bc-b0b9-40fa-a686-c7f1ebaa7367)
 
 Light Mode Of The SNFCalculator App
-![Screenshot 2024-11-03 011307](https://github.com/user-attachments/assets/b06708bc-b0b9-40fa-a686-c7f1ebaa7367)
+![Screenshot 2024-11-03 011246](https://github.com/user-attachments/assets/ba4dab8f-f909-4850-80b0-656bbbd7fecd)
 
 Dark Mode Of The MyCalculator App
 ![Screenshot 2024-11-03 011622](https://github.com/user-attachments/assets/4db36048-4930-4e6b-a462-7e35bfc92dc2)
