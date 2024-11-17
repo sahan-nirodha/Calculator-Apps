@@ -1,4 +1,4 @@
-        Screen Shots Of These 03 Calculator Apps
+                Screen Shots Of These 03 Calculator Apps
 
 Dark Mode Of The EasyCalculator App
 ![Screenshot 2024-11-03 010953](https://github.com/user-attachments/assets/7a673594-d9dc-4680-877c-a8b3eca9046f)
@@ -18,5 +18,5 @@ Dark Mode Of The MyCalculator App
 Light Mode Of The MyCalculator App
 ![Screenshot 2024-11-03 011608](https://github.com/user-attachments/assets/97a82dee-aaa5-4ba9-8bf3-da3d1ce36cbc)
 
-These 3 Apps Install To The Bluestack
+These 3 Apps Install Into The Bluestack
 ![Screenshot 2024-11-03 011733](https://github.com/user-attachments/assets/e92b166a-7c16-4d96-8ea2-e9b683079452)
